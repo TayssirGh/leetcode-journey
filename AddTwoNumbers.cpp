@@ -25,13 +25,12 @@ ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
             total += l2->val;
             l2 = l2->next;
         }
-
-        int num = total % 10;
-        carry = total / 10;
+        int num = total % 10 ;
+        carry = total / 10 ;
         dummy->next = new ListNode(num);
         dummy = dummy->next;
-    }
 
+    }
     ListNode* result = res->next;
     delete res;
     return result;
