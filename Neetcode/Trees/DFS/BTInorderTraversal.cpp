@@ -13,11 +13,11 @@ struct TreeNode {
     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
 };
 vector<int> inorder( TreeNode* root, vector<int>& res) {
-    if (!root) return ;
+    if (!root) return res;
     inorder(root->left, res);
     res.push_back(root->val);
     inorder(root->right, res);
-
+    return res;
 }
 vector<int> inorderTraversal(TreeNode* root) {
     vector<int> res;
