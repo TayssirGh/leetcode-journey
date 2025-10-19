@@ -25,7 +25,7 @@ You’ll find a folder dedicated to **daily problems** from LeetCode which is pe
 | **Two Pointers** | Array/string problems using two-pointer technique |
 
 
--> Each directory includes its own `README.md` file containing links to the problems, explanations, and solutions for that specific topic.
+-> Each directory includes its own `z_problem_list.md` file containing links to the problems, explanations, and solutions for that specific topic.
 
 ## Purpose & Collaboration
 
