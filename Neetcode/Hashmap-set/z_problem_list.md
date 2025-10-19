@@ -1,0 +1,5 @@
+ 1. [Contains duplicates](https://leetcode.com/problems/contains-duplicate/description/)
+ 2. [Find the difference between two arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/)
+ 3. [Two strings are close](https://leetcode.com/problems/determine-if-two-strings-are-close/description)
+ 4. [Two sum](https://leetcode.com/problems/two-sum/description/)
+ 5. [Unique number of occurrences](https://leetcode.com/problems/unique-number-of-occurrences/description/)

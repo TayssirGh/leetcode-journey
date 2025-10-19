@@ -1,0 +1,5 @@
+ 1. [K closest points to origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
+ 2. [Kth largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+ 3. [kth largest element in a stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+ 4. [Last stone weight](https://leetcode.com/problems/last-stone-weight/description/)
+ 5. [Smallest Number in an infinite set](https://leetcode.com/problems/smallest-number-in-infinite-set/description)

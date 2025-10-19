@@ -1,0 +1,7 @@
+ 1. [Delete middle node of a linkedlist](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list)
+ 2. [Design Browse history](https://leetcode.com/problems/design-browser-history/description/)
+ 3. [design linkedlist](https://leetcode.com/problems/design-linked-list/description/)
+ 4. [Maximum twin sum of a linkedlist](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/)
+ 5. [merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+ 6. [Odd even linkedlist](https://leetcode.com/problems/odd-even-linked-list/description)
+ 7. [Reverse Linkedlist](https://leetcode.com/problems/reverse-linked-list/)

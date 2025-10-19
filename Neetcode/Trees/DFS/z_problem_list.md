@@ -1,0 +1,8 @@
+1. [Binary tree inorder traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+2. [Build a binary search tree from inorder and preorder array](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)
+3. [Count good nodes in a binary search tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree)
+4. [Kth smallest element in a binary search tree](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+5. [Leaf similar trees](https://leetcode.com/problems/leaf-similar-trees/)
+6. [Longest Zigzag path in a binary tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree)
+7. [Maximum depth of a binary tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
+8. [Paths sum III (target sum)](https://leetcode.com/problems/maximum-depth-of-binary-tree)
